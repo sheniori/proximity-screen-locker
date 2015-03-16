@@ -1,0 +1,1 @@
+proximity-screen-locker
